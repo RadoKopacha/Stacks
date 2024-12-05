@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StackHomework 1/1.0.0": {
+        "runtime": {
+          "StackHomework 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackHomework 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

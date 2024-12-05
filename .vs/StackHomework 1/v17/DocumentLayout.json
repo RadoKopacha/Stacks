@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8FEEA1-599B-4C43-8CD5-1F2B309199FF}|BracketCode\\BracketCode.csproj|c:\\users\\admin\\documents\\domashna\\stackhomework 1\\bracketcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8FEEA1-599B-4C43-8CD5-1F2B309199FF}|BracketCode\\BracketCode.csproj|solutionrelative:bracketcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19B67E-2E8E-4487-869F-FE12255C81DE}|StackHomework 1\\StackHomework 1.csproj|c:\\users\\admin\\documents\\domashna\\stackhomework 1\\stackhomework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE19B67E-2E8E-4487-869F-FE12255C81DE}|StackHomework 1\\StackHomework 1.csproj|solutionrelative:stackhomework 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19B67E-2E8E-4487-869F-FE12255C81DE}|StackHomework 1\\StackHomework 1.csproj|c:\\users\\admin\\documents\\domashna\\stackhomework 1\\stackhomework 1\\stackhomework 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE19B67E-2E8E-4487-869F-FE12255C81DE}|StackHomework 1\\StackHomework 1.csproj|solutionrelative:stackhomework 1\\stackhomework 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\BracketCode\\Program.cs",
+              "RelativeDocumentMoniker": "BracketCode\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\BracketCode\\Program.cs",
+              "RelativeToolTip": "BracketCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:03:00.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackHomework 1.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\StackHomework 1\\StackHomework 1.csproj",
+              "RelativeDocumentMoniker": "StackHomework 1\\StackHomework 1.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\StackHomework 1\\StackHomework 1.csproj",
+              "RelativeToolTip": "StackHomework 1\\StackHomework 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T18:54:44.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\StackHomework 1\\Program.cs",
+              "RelativeDocumentMoniker": "StackHomework 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Domashna\\StackHomework 1\\StackHomework 1\\Program.cs",
+              "RelativeToolTip": "StackHomework 1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:37:11.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
